@@ -6,7 +6,11 @@ Before that I coordinated population surveillance and demographic analysis for C
 
 ## What I publish here
 
-**[covid19-vaccine-effectiveness-colombia](https://github.com/carlosreina-epi/covid19-vaccine-effectiveness-colombia)** — A target trial emulation of Colombia's National Vaccination Plan, rebuilt from my doctoral work as a fully reproducible pipeline. Includes a synthetic data generator with a known true effect, risk-set matching, and a comparison showing how much the estimate depends on how time zero and the comparison group are defined. [Read the rendered report](https://carlosreina-epi.github.io/covid19-vaccine-effectiveness-colombia/)
+**[covid19-vaccine-effectiveness-colombia](https://github.com/carlosreina-epi/covid19-vaccine-effectiveness-colombia)** — A target trial emulation of Colombia's National Vaccination Plan, rebuilt from my doctoral work as a fully reproducible pipeline. Includes a synthetic data generator with a known true effect, risk-set matching, and a comparison showing how much the estimate depends on how time zero and the comparison group are defined. [Read the rendered report](https://carlosreina-epi.github.io/covid19-vaccine-effectiveness-colombia/) · DOI [10.5281/zenodo.22945666](https://doi.org/10.5281/zenodo.22945666)
+
+**[enso-unusual-sari-colombia](https://github.com/carlosreina-epi/enso-unusual-sari-colombia)** — National time-series analysis of El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019, using distributed lag non-linear models. Code and data. Preprint: [Research Square](https://doi.org/10.21203/rs.3.rs-11612511/v1) · DOI [10.5281/zenodo.23924392](https://doi.org/10.5281/zenodo.23924392)
+
+**[which-deaths-count](https://github.com/carlosreina-epi/which-deaths-count)** — Replication code and data for a study of mortality shocks from war, famine and COVID-19, 1914–2023. Preprint: [SocArXiv](https://doi.org/10.31235/osf.io/f4kuj_v1) · DOI [10.5281/zenodo.24378444](https://doi.org/10.5281/zenodo.24378444)
 
 ## Research interests
 
